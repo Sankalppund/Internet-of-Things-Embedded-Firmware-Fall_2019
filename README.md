@@ -1,1 +1,2 @@
-# Internet_of_Things_Embedded_Firmware_Fall_2019
+# This github repository contains assignments and course project
+  for IoT Embedded Firmware. 
